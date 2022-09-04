@@ -1,4 +1,6 @@
 Add vocabulary terms below.
 Git
 to fork
+repository
+visual studio code
 visual
