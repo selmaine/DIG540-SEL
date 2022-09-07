@@ -1,7 +1,7 @@
 Add vocabulary terms below.
 info system
 Git
-to fork
+fork
 repository
 visual studio code
 visual
