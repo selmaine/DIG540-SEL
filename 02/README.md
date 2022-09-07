@@ -22,7 +22,7 @@ Part 4: Create a simple dynamic web page based on the "vocabulary.json" data fee
 - In Visual Studio Code, create vocabulary.php and save to your local filesystem;
 - Edit the new vocabulary.php file with the code from the video (the video will show each line of the code written by hand... it'll provide good practice to follow along line by line, but I'll also paste the completed code block to Slack);
 - Upload vocabulary.php to your Reclaim hosting account;
-- Once uploaded, find your new web page at **[your domain name]/vocabulary.php**, and paste this new URL into Slack;
+- Once uploaded, find your new web page at **[your domain name]/vocabulary.php**, and paste this new URL into Slack's #general channel;
 
 Congrats, you've made your first dynamic web page! 
 
