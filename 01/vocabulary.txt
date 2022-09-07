@@ -8,3 +8,4 @@ visual
 pull request
 clone
 language extensions
+slack
