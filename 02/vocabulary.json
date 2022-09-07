@@ -34,5 +34,9 @@
 	{
 		"name":"language extensions",
 		"definition":"In any of several fields of study that treat the use of signs — for example, in linguistics, logic, mathematics, semantics, semiotics, and philosophy of language — the extension of a concept, idea, or sign consists of the things to which it applies."
+	},
+	{
+		"name":"slack",
+		"definition":"Slack is a messaging program designed specifically for the office, but has also been adopted for personal use."
 	}
 ]
