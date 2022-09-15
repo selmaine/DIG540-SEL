@@ -4,7 +4,7 @@ We'll look at ways to better present our data.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/xU3DvuIL_b8>
 
 **Assignment**
 
