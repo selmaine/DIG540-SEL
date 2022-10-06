@@ -21,9 +21,9 @@ Part 2: Install Omeka S' CSSEditor module:
 
 Part 3: Install WordPress:
 - Install WordPress using Reclaim Hosting's single-click install;
+- Change the default Hello World post;
 - Add the Simple CSS plugin;
 - Make changes to the style of your WordPress install;
-- Wrap text around your image to create a WordPress post;
 - Post the URL to the post to Slack's #wwordpress-posts channel!
 
 **The assignment should be done by Wednesday Oct. 12th.**
