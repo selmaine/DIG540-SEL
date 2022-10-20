@@ -4,7 +4,7 @@ Hooking up a MySQL database to a dynamic web page.
 
 **This Week's Video**
 
-- <>
+- <https://youtu.be/hSMcU7u4znw>
 
 **Assignment**
 
